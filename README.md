@@ -1,1 +1,1 @@
-# Crop-Leaves-Detection
+#Leaves-Disease-Detection
